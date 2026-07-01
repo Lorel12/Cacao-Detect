@@ -1,0 +1,10 @@
+__pycache__/
+*.pt
+dataset/
+*.zip
+.env
+venv/
+models/runs/
+models/*.pt
+**/runs/
+mlflow/
