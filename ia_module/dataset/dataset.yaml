@@ -1,0 +1,12 @@
+names:
+- sain
+- pourriture_brune
+- moniliophthora
+- anthracnose
+- cochenilles
+- balai_de_sorciere
+nc: 6
+path: C:\Users\Admin\Desktop\CacapDetect\ia_module\dataset
+test: test/images
+train: train/images
+val: val/images

@@ -1,0 +1,14 @@
+names:
+- Fitoftora
+- Monilia
+- Sana
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: enfermedades-del-cacao
+  url: https://universe.roboflow.com/class-oirrr/enfermedades-del-cacao/dataset/4
+  version: 4
+  workspace: class-oirrr
+test: ../test/images
+train: C:\Users\Admin\Desktop\CacapDetect\ia_module\dataset/train/images
+val: C:\Users\Admin\Desktop\CacapDetect\ia_module\dataset/valid/images

@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Admin/Desktop/CacapDetect/runs/mlflow/988418598198188559/6a3fc78d8ad9475cb82a088fbd1a7c99/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '988418598198188559'
+lifecycle_stage: active
+run_id: 6a3fc78d8ad9475cb82a088fbd1a7c99
+run_name: cacaodetect_v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1782888082887
+status: 1
+tags: []
+user_id: Admin
